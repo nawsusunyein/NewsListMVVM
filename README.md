@@ -1,0 +1,2 @@
+# NewsListMVVM
+MVVM architecture, NewsList
